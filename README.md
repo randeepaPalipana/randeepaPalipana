@@ -27,7 +27,7 @@
 ```yaml
 Name: Randeepa Palipana
 Location: Sri Lanka 🇱🇰
-Education: Software Engineering @ Esoft Metro Campus
+Education: Software Engineering @ Esoft University / London Metropolitan University
 Role: Full Stack Developer
 Passion: Building software that solves real-world problems
 Current Focus:
