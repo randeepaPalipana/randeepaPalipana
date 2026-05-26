@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Randeepa Palipana
+# Randeepa Palipana
 
 ### Full Stack Developer | Software Engineering Student | Problem Solver
 
