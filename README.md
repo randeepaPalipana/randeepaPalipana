@@ -1,7 +1,7 @@
-# Hi, I'm Randeepa 👋
+# Hi, I'm Randeepa 
 
-🎓 Software Engineering Student  
-💻 Interested in Software Development  
+Software Engineering Student  
+Interested in Software Development  
 🇱🇰 From Sri Lanka
 
 ### About Me
@@ -32,4 +32,4 @@
 
 ---
 
-*Thanks for visiting my profile!* 😊
+*Thanks for visiting my profile!* 
